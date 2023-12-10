@@ -11,4 +11,4 @@ The dataset used for this project was obtained from Kaggle, provided by Dr. Fatm
 The deep learning model employs the EfficientNet architecture, known for its exceptional efficiency and accuracy. We fine-tuned the model to classify emotions into two primary classes: autistic and non-autistic. The pre-trained weights on the emotion classes were extracted, and the model was retrained on the new binary classification task.
 
 # Training and Evaluation
-After retraining, the model achieved an impressive accuracy of 80% on the validation set. Subsequently, to evaluate the model's generalization capability, we tested it on another dataset obtained from Kaggle. In this evaluation, the model maintained a strong performance, achieving an accuracy of 64.7%.
+After retraining, the model achieved an impressive accuracy of 75% on the validation set. Subsequently, to evaluate the model's generalization capability, we tested it on another dataset obtained from Kaggle. In this evaluation, the model maintained a strong performance, achieving an accuracy of 64.7%.
